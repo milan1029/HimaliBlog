@@ -1,0 +1,27 @@
+.parallex{
+  background-image: url("background.png");
+  max-width: 100%;
+  height: auto;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallex img{
+  padding: 80px;
+  max-width: 100%;
+  height: auto;
+}
+
+.container{
+  margin-top: 100px;
+  height: 1000px;
+  width:1000px;
+}
+
+.container .search{
+  display: flex;
+  float:right;
+  display:inline;
+}
